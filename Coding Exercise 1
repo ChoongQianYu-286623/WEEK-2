@@ -13,7 +13,7 @@ public class OneDayCampusLife {
 		System.out.println("5.30pm: Take a nap");
 		System.out.println("6:00pm: Bath");
 		System.out.println("7:00pm: Dinner");
-		System.out.println("7:30pm: Practe on programming work");
+		System.out.println("7:30pm: Practice on programming work");
 		System.out.println("11:00pm: Go to bed");
 	}
 
